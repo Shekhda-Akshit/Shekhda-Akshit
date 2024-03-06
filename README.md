@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhda-akshit&label=Profile%20views&color=0e75b6&style=flat" alt="shekhda-akshit" /> </p>
 
-- 🔭 My Decentralized Port-Folio [Decentralized Port-Folio](sheaks.netlify.app)
+- 🔭 My Decentralized Port-Folio [Decentralized Port-Folio](https://github.com/Shekhda-Akshit/Decentralized_Port_Folio)
 
 - 🌱 I’m currently Exploring **Spring , Spring Boot , Blockchain**
 
