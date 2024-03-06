@@ -1,3 +1,4 @@
+![logo](https://github.com/Shekhda-Akshit/Shekhda-Akshit/blob/main/Akshit_Shekhda_Banner.png)
 <h1 align="center">Hi 👋, I'm Akshit Shekhda</h1>
 <h3 align="center">Like a sponge in an ocean of knowledge, I eagerly soak up every drop of learning, perpetually expanding my intellectual shores.</h3>
 
